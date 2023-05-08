@@ -1,0 +1,10 @@
+# Path to dataset 
+path: /Users/baudi/AI/practicas/grapes/datasets/ 
+train: /Users/baudi/AI/practicas/grapes/datasets/train/
+val: /Users/baudi/AI/practicas/grapes/datasets/val/
+test: /Users/baudi/AI/practicas/grapes/datasets/test/
+# Number of classes
+nc: 1
+# Class names
+names:
+  0: grape

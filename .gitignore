@@ -1,0 +1,17 @@
+/.DS_Store
+/augmented
+/augmented2
+/augmented3
+/augmented4
+/augmented5
+/augmented6
+/datasets
+/output
+/runs
+/test
+/test_improved
+/train_aug
+/val
+/yolov8n.pt
+/yolov8s.pt
+/yolov8x.pt
